@@ -73,6 +73,10 @@ O projeto foi criado de forma inicial em resposta ao desafio, com o conhecimento
 
 Para executar o projeto, é necessário utilizar o Eclipse, para que o mesmo identifique as dependências necessárias para a execução. Uma vez importado o projeto, basta rodar a classe que as etapas irão aparecer no console.
 
+##Futuras Implementações
+
+Alguns dos desafios propostos não foram concluídos ainda, porém assim que caminhado junto com a academia Capgemini todos poderão ser alinhados para total desenvolvimento. Tais como a implementação do Banco de dados, uso do JPA e Hibernate para formulação do CRUD necessário para filtro das pesquisas e Front a ser construído com Angular.
+
 ## Contribuições
 
 Contribuições são sempre bem-vindas! 
